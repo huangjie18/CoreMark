@@ -1,0 +1,4 @@
+1.Input_First.c  --编写输入音量控制界面
+2.Input_Second.c --编写噪声门和压缩界面
+3.Input_Third.c  --编写混合通道界面
+4.Input_Four.c   --编写输入EQ界面

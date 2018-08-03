@@ -1,0 +1,9 @@
+..\obj\framewindlg.o: ..\HARDWARE\BITMAP_DISPLAY\FramewinDLG.c
+..\obj\framewindlg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\framewindlg.o: ..\STemWin\inc\GUI.h
+..\obj\framewindlg.o: ..\STemWin\inc\GUI_ConfDefaults.h
+..\obj\framewindlg.o: ..\STemWin\Config\GUIConf.h
+..\obj\framewindlg.o: ..\STemWin\inc\GUI_Type.h
+..\obj\framewindlg.o: ..\STemWin\inc\LCD.h
+..\obj\framewindlg.o: ..\STemWin\inc\Global.h
+..\obj\framewindlg.o: ..\STemWin\inc\GUI_Version.h

@@ -1,0 +1,17 @@
+--cpu Cortex-M4.fp
+"..\obj\startup_stm32f40_41xxx.o"
+"..\obj\test.o"
+"..\obj\delay.o"
+"..\obj\sys.o"
+"..\obj\usart.o"
+"..\obj\led.o"
+"..\obj\core_list_join.o"
+"..\obj\core_main.o"
+"..\obj\core_matrix.o"
+"..\obj\core_portme.o"
+"..\obj\core_state.o"
+"..\obj\core_util.o"
+--strict --scatter "..\OBJ\TEST.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "..\OBJ\TEST.map" -o ..\OBJ\TEST.axf

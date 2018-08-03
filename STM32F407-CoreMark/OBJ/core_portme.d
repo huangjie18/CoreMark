@@ -1,0 +1,15 @@
+..\obj\core_portme.o: ..\CoreMark\core_portme.c
+..\obj\core_portme.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\core_portme.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\core_portme.o: ..\CoreMark\coremark.h
+..\obj\core_portme.o: ..\CoreMark\core_portme.h
+..\obj\core_portme.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+..\obj\core_portme.o: ..\SYSTEM\sys\sys.h
+..\obj\core_portme.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\core_portme.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\core_portme.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\core_portme.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\core_portme.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\core_portme.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\core_portme.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\core_portme.o: ..\SYSTEM\usart\usart.h

@@ -1,0 +1,9 @@
+..\obj\up.o: ..\STemWin\STemWin_Addons\up.c
+..\obj\up.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\up.o: ..\STemWin\inc\GUI.h
+..\obj\up.o: ..\STemWin\inc\GUI_ConfDefaults.h
+..\obj\up.o: ..\STemWin\Config\GUIConf.h
+..\obj\up.o: ..\STemWin\inc\GUI_Type.h
+..\obj\up.o: ..\STemWin\inc\LCD.h
+..\obj\up.o: ..\STemWin\inc\Global.h
+..\obj\up.o: ..\STemWin\inc\GUI_Version.h
