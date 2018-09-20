@@ -1,0 +1,16 @@
+..\output\core_list_join.o: ..\CoreMark\core_list_join.c
+..\output\core_list_join.o: ..\CoreMark\coremark.h
+..\output\core_list_join.o: ..\CoreMark\core_portme.h
+..\output\core_list_join.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+..\output\core_list_join.o: ..\USER\usart1.h
+..\output\core_list_join.o: ..\CMSIS\stm32f10x.h
+..\output\core_list_join.o: ..\CMSIS\core_cm3.h
+..\output\core_list_join.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\core_list_join.o: ..\CMSIS\system_stm32f10x.h
+..\output\core_list_join.o: ..\USER\stm32f10x_conf.h
+..\output\core_list_join.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\core_list_join.o: ..\CMSIS\stm32f10x.h
+..\output\core_list_join.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\core_list_join.o: ..\FWlib\inc\stm32f10x_usart.h
+..\output\core_list_join.o: ..\FWlib\inc\misc.h
+..\output\core_list_join.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
